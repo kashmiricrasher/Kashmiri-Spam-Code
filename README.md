@@ -7,6 +7,7 @@ Follow these steps to install and run Kashmiri-Spam-Code on your system:
 Ensure your system has Termux installed. Then, update and install required packages:
 
 apt update && apt upgrade -y
+
 pkg install git
 
 🔥 Installation
